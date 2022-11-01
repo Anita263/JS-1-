@@ -1,0 +1,12 @@
+alert('Hello');
+const myName = 'Anna';
+console.log(myName);
+const mySurname = 'Murzina';
+console.log(mySurname);
+let myCity = 'Kaliningrad';
+console.log(myCity);
+const yearOfMyBirth = '1989';
+const dayOfMyBirth = '29 October';
+const dateMyBirth = (dayOfMyBirth + ' ' + yearOfMyBirth);
+console.log(dateMyBirth);
+console.log(myName + ' с фамилией ' + mySurname + ' учит JS !');
