@@ -1,0 +1,1 @@
+console.log('Hello world!!!'); //console.log вызывает функцию, в консоле отобразится Hello world!!! //
